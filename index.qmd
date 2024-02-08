@@ -144,8 +144,6 @@ A Python toolbox for analysing body movements across space and time, to aid the 
 [movement.neuroinformatics.dev](https://movement.neuroinformatics.dev)
 :::
 
-## Other projects
-
 
 ## Other tools & WIP{.smaller}
 
@@ -167,14 +165,14 @@ Developer tools
 
 ## Other projects{.smaller}
 * Data compression
-* Project-specific analysis dashboard
+* Project-specific analysis dashboards
 * Long-term multi-animal tracking
-* Multiphoton (2p/3p) data processing inc derotation
+* Multiphoton (2p/3p) data processing inc. derotation
 * Novel species anatomical atlas generation
 * Productionisation of tools developed by researchers (e.g. [NeuralPlayground](https://github.com/SainsburyWellcomeCentre/NeuralPlayground))
 
 
-## Links
+## Links{.smaller}
 
 **Neuroinformatics unit**
 
